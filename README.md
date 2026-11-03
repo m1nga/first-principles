@@ -99,3 +99,9 @@ owners, publication holds and real verification requirements remain in force.
 
 Built by [Ming](https://github.com/m1nga). Source, documentation and installation are
 maintained in this GitHub repository.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+A simpler workflow leaves more room to finish the thing you started. [Browse projects on SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=first-principles), or share a tool or experiment you made and the feedback that would help.
+<!-- sidecourt-referral:end -->
